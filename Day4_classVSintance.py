@@ -15,7 +15,6 @@ class Person:
         else: 
             self.age = initialAge
         
-        
     def amIOld(self):
         if self.age < 13:
             print("You are young.")
