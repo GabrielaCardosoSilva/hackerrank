@@ -1,13 +1,9 @@
-'''Task
+'''
+Task
 Given an integer, n, print its first  multiples. Each multiple n x i
-(where 1 <= n <= 10) should be printed on a new line in the form: n x i = result.'''
+(where 1 <= n <= 10) should be printed on a new line in the form: n x i = result.
+'''
 
-
-import math
-import os
-import random
-import re
-import sys
 
 if __name__ == '__main__':
     n = int(input().strip())
